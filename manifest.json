@@ -1,11 +1,11 @@
 {
-    "name": "MTA",
-    "short_name": "MTA",
+    "name": "form_data",
+    "short_name": "form_data",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Data Setoran Santri MTA",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
